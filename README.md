@@ -20,3 +20,6 @@ py -m pip install pandas
 py -m pip install matplotlib 
 py -m pip install seaborn
 py -m pip install scipy
+
+## How to Install and Run the Project
+I installed each package separately
